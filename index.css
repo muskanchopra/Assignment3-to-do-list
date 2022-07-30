@@ -1,0 +1,29 @@
+body{
+    font-family: 'roboto', sans-serif;
+    background-color: darkslategray;
+    color: antiquewhite;
+    justify-content: center;
+    font-weight: bolder;
+    line-height: 32px;
+    /* letter-spacing: 5px; */
+}
+button{
+    color: #ffa260;
+    border: 2px solid;
+    padding: 1em 2em;
+    font-size: 1em;
+    translate: all 0.255;
+}
+
+button:hover{
+    border-color: #f1ff5c;
+    color: rgb(102, 6, 6);
+    box-shadow: 0 0.5em 0.5em -0.4em #f1ff5c;
+    transform: translatey(-0.25em);
+}
+h1{
+    color: rgb(160, 129, 129);
+    font-size: 100px;
+    padding: 70px 1px 0 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
